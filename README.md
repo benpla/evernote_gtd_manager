@@ -14,6 +14,8 @@ This script can run daily as a cron job. Thus the notes in the background are so
 Das Programm erzeugt Notizbücher in einem Stapel, eines für jede Kalenderwoche. Dabei werden Notizbücher für zukünftige Wochen erzeugt. Der Name bzw. die Bezeichnung der Notizbücher ist festgelegt in der Funktion 'GetWeekString'. 
 Beim Start des Programms ist ein Datumsbereich anzugeben, in welchem für jede darin befindliche Kalenderwoche ein Notizbuch angelegt wird:
 
+![](fig/Screenshot_evernote_week_notebooks.jpg)
+
 Anschließend werden alle Notizbücher eingelesen und mit den erzeugten Wochennamen verglichen. Sollte der Wochenname bzw. die Wochenbezeichnung anders lauten (weil z.B. die Funktion 'GetWeekString' geändert wurde), dann werden alle betroffenen Notizbücher umbenannt. 
 Auf diese Weise können verschiedene Namenskonventionen für die Wochen-Notizbücher getestet werden. 
 
