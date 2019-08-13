@@ -14,8 +14,9 @@
 #   - The Licensee shall keep intact all copyright, patent or trademarks notices
 #   - The Licensee must include a copy of such notices and a copy of the Licence with every copy of the Work
 #
-# Liability:
-#   The Licensor will in no event be liable for any direct or indirect, material or moral, damages of any kind, arising out of the Licence or of the use of the Work, including without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of data or any commercial damage
+# Disclaimer of Warranty/Liability:
+#   - The Licensor will in no event be liable for any direct or indirect, material or moral, damages of any kind, arising out of the Licence or of the use of the Work, including without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of data or any commercial damage
+#   - the Work is provided under the Licence on an ‘as is’ basis and without warranties of any kind concerning the Work, including without limitation merchantability, fitness for a particular purpose, absence of defects or errors, accuracy, non-infringement of intellectual property rights
 
 
 from evernote.api.client import EvernoteClient
